@@ -2,8 +2,8 @@ CTRL+N       //new file
 CTRL+S       //save
 CTRL+X       //cut
 CTRL+C       //undo
-ALT+F4        //close programm
-F5              //run
+ALT+F4       //close programm
+F5           //run
 
 Python Built in Functions:
 
@@ -11,7 +11,7 @@ print()         //show smth
 Operators:
 
 %s()             //it is like marker, that marks values (temporary substitute), which you want to add, just add it into your variable (page 33)
-                     example:   >>> wallet = 46
+                     example:      >>> wallet = 46
                                    >>> message = 'hi, you have %s coins'
                                    >>> print(message % wallet)
                                       hi, you have 46 coins 
@@ -25,15 +25,15 @@ Python Keywords:
 del               //to define a function
 
 
-               //for operations with variables you (do it without quotes)
-'              //for operations with text (lines)
-"              //for operations with text (lines)
+                //for operations with variables you (do it without quotes)
+'               //for operations with text (lines)
+"               //for operations with text (lines)
 '''             //for operations with text (double and more lines and lines, that contain qutos and apostrophe)
-\             //you can use this symbol before qutos and apostrophe in your line, it names screening and then you needn't use triple single quotes, like this ''' (page 32)
-[ ]           //for creating lists, you can edit, print and cut one of the object in the list using the same brackets
-[ : ]         //by this you can show some of the objects
-                 example:   >>> list_a=['car' , 'house', 'road' , 'bird']
-                               >>> print( list_a [1:3] )                                 //note, that if you from 1 (including) to 3 (exclusively)
+\               //you can use this symbol before qutos and apostrophe in your line, it names screening and then you needn't use triple                     single quotes, like this ''' (page 32)
+[ ]             //for creating lists, you can edit, print and cut one of the object in the list using the same brackets
+[ : ]           //by this you can show some of the objects
+                  example:  >>> list_a=['car' , 'house', 'road' , 'bird']
+                             >>> print( list_a [1:3] )                                 //note, that if you from 1 (including) to 3 (exclusively)
                                     ['house', 'road']                                      //note, that list begins with 0 
 
 Errors:
