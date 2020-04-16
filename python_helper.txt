@@ -39,4 +39,4 @@ del               //to define a function
 Errors:
 
 SyntaxError  //there is a problem with symbols
-EOL             //end-of-line
+EOL          //end-of-line
