@@ -10,7 +10,7 @@ Python Built in Functions:
 print()         //show smth
 Operators:
 
-%s()             //it is like marker, that marks values (temporary substitute), which you want to add, just add it into your variable (page 33)
+%s()            //it is like marker, that marks values (temporary substitute), which you want to add, just add it into your variable (page 33)
                      example:      >>> wallet = 46
                                    >>> message = 'hi, you have %s coins'
                                    >>> print(message % wallet)
@@ -33,8 +33,8 @@ del               //to define a function
 [ ]             //for creating lists, you can edit, print and cut one of the object in the list using the same brackets
 [ : ]           //by this you can show some of the objects
                   example:  >>> list_a=['car' , 'house', 'road' , 'bird']
-                             >>> print( list_a [1:3] )                                 //note, that if you from 1 (including) to 3 (exclusively)
-                                    ['house', 'road']                                      //note, that list begins with 0 
+                            >>> print( list_a [1:3] )                         //note, that if you from 1 (including) to 3 (exclusively)
+                                    ['house', 'road']                         //note, that list begins with 0 
 
 Errors:
 
